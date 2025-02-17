@@ -10,6 +10,7 @@ Recognizing the missed investment opportunities, the company's Executive Leaders
 
 Contract:
 •	Establish a robust cybersecurity framework by defining policies, standards, and guidelines.
+
 •	Ensure technical and administrative security measures are effectively deployed.
 •	Identify, analyze, and mitigate security risks in PiggyCo’s Azure cloud infrastructure.
 •	Ensure continuous regulatory compliance and audit readiness.

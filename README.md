@@ -1,7 +1,7 @@
 Enterprise GRC Policies & Risk Management
-
+--------------------------------------------------------
 Scenario
-
+---------------------------------------------------------
 PiggyCo is a fictional fintech startup that creates web and mobile applications designed to help small businesses crowdfund to scale their operations. Initially, their business model did not gain much traction. However, the endorsement of their product by a prominent influencer sparked significant interest, attracting attention from new customers and investors in the private sector.
 
 During negotiations with potential investors, a common request was to provide cybersecurity governance documents. Investors needed this information to assess their risk and requested to see policies, procedures, risk assessments, and audit reports. Unfortunately, PiggyCo was at an ad-hoc stage in their risk management journey, lacking governance documents and awareness about the importance of risk management. They addressed risks on the fly.
@@ -16,7 +16,7 @@ Contract:
 
 
 Project Deliverables: 
-	Cybersecurity Policies & Standards Documentation 
-	Implemented Security Controls & Cloud Security Baselines 
-	Risk Assessment Reports with Remediation Plans 
-	Compliance & Audit Framework with Continuous Monitoring
+✔	Cybersecurity Policies & Standards Documentation 
+✔	Implemented Security Controls & Cloud Security Baselines 
+✔	Risk Assessment Reports with Remediation Plans 
+✔	Compliance & Audit Framework with Continuous Monitoring

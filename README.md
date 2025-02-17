@@ -9,6 +9,7 @@ During negotiations with potential investors, a common request was to provide cy
 Recognizing the missed investment opportunities, the company's Executive Leadership team decided to implement a proper Governance, Risk, and Compliance (GRC) program. Unable to afford big-name consulting firms, they sought recommendations for a reputable private consultant. This led to my services being retained, referred by another startup for whom I had set up a cybersecurity governance program.
 
 Contract:
+
 •	Establish a robust cybersecurity framework by defining policies, standards, and guidelines.
 
 •	Ensure technical and administrative security measures are effectively deployed.
@@ -19,6 +20,7 @@ Contract:
 
 
 Project Deliverables: 
+
 ✔	Cybersecurity Policies & Standards Documentation 
 
 ✔	Implemented Security Controls & Cloud Security Baselines 

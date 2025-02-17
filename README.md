@@ -6,7 +6,7 @@ PiggyCo is a fictional fintech startup that creates web and mobile applications 
 
 During negotiations with potential investors, a common request was to provide cybersecurity governance documents. Investors needed this information to assess their risk and requested to see policies, procedures, risk assessments, and audit reports. Unfortunately, PiggyCo was at an ad-hoc stage in their risk management journey, lacking governance documents and awareness about the importance of risk management. They addressed risks on the fly.
 
-Recognizing the missed investment opportunities, the company's Executive Leadership team decided to implement a proper Governance, Risk, and Compliance (GRC) program. Unable to afford big-name consulting firms, they sought recommendations for a reputable private consultant. This led to my services being retained, referred by another startup for whom I had set up a cybersecurity governance program.
+Recognizing the missed investment opportunities, the company's Executive Leadership team decided to implement a proper Governance, Risk, and Compliance (GRC) program. Unable to afford big-name consulting firms, they sought recommendations for a reputable private consultant. This led to my services being retained, referred by another company for whom I had set up a cybersecurity governance program.
 
 Contract:
 

@@ -12,12 +12,17 @@ Contract:
 •	Establish a robust cybersecurity framework by defining policies, standards, and guidelines.
 
 •	Ensure technical and administrative security measures are effectively deployed.
+
 •	Identify, analyze, and mitigate security risks in PiggyCo’s Azure cloud infrastructure.
+
 •	Ensure continuous regulatory compliance and audit readiness.
 
 
 Project Deliverables: 
 ✔	Cybersecurity Policies & Standards Documentation 
+
 ✔	Implemented Security Controls & Cloud Security Baselines 
+
 ✔	Risk Assessment Reports with Remediation Plans 
+
 ✔	Compliance & Audit Framework with Continuous Monitoring
